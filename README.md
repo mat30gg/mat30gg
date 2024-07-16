@@ -2,7 +2,7 @@
 
 
 99% Graduate programmer at the "Universidad Tecnologica Nacional" (UTN) 📚💻
-![UTN_logo_emoji](https://github.com/user-attachments/assets/4026f0e4-7b10-4d1e-8e47-62ede2e6eb60)
+<img src='https://github.com/user-attachments/assets/4026f0e4-7b10-4d1e-8e47-62ede2e6eb60' height='20px'>
 
 ### About me
 
