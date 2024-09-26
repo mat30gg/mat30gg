@@ -6,9 +6,7 @@
 
 ### About me
 
-- 🔭 I'm currently finishing my studies
 - 📖 Learning more about data science
-- :bowtie: 
 <!--
 **mat30gg/mat30gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
